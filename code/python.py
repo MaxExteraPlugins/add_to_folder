@@ -45,6 +45,10 @@ class UpdateCountersHook(MethodHook):
 # ============================================================
 # MaxExteraPlugins Shared Author & Channel Subscription Module
 # ============================================================
+
+# ============================================================
+# MaxExteraPlugins Shared Author & Channel Subscription Module
+# ============================================================
 class AuthorChannelHelper:
     CONFIG_URL = "https://raw.githubusercontent.com/MaxExteraPlugins/config/main/links.json"
 
