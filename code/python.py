@@ -13,7 +13,7 @@ __description__ = ("Shows the \"Add to folder\" button when selecting chats "
                     "Показывает кнопку «Добавить в папку» при выборе чатов "
                     "внутри папки, а не только на главном экране.")
 __author__ = "@itNotMax - @MaxExteraPlugins"
-__version__ = "1.1.0"
+__version__ = "1.1.1"
 __icon__ = "MaxExteraPluginsStickers/14"
 __min_version__ = "12.10.6"
 __app_version__ = ">=12.1.1"

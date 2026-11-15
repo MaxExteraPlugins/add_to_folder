@@ -28,7 +28,7 @@ Shows the «Add to folder» button when selecting chats inside a folder.
 ## 📥 Installation
 
 1. Navigate to the [**Releases**](https://github.com/MaxExteraPlugins/add_to_folder/releases/latest) section.
-2. Download the `add_to_folder_v1.1.0.plugin` file.
+2. Download the `add_to_folder_v1.1.1.plugin` file.
 3. Send the file to your Telegram Saved Messages or open it via file manager in exteraGram / AyuGram.
 4. Tap the file in Telegram and choose **"Install plugin"**.
 

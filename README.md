@@ -28,7 +28,7 @@
 ## 📥 Установка
 
 1. Перейдите во вкладку [**Releases**](https://github.com/MaxExteraPlugins/add_to_folder/releases/latest).
-2. Скачайте файл плагина `add_to_folder_v1.1.0.plugin`.
+2. Скачайте файл плагина `add_to_folder_v1.1.1.plugin`.
 3. Отправьте файл в Telegram (в «Избранное») или откройте его через проводник в exteraGram / AyuGram.
 4. Нажмите на сообщение с плагином и выберите **«Установить плагин»**.
 
